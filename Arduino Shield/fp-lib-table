@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Arduino_MountingHole")(type "KiCad")(uri "${KICAD7_TEMPLATE_DIR}/Arduino_Mega/Arduino_MountingHole.pretty")(options "")(descr ""))
+  (lib (name "GPIB")(type "KiCad")(uri "${KIPRJMOD}/GPIB.pretty")(options "")(descr ""))
+  (lib (name "OS_Scribbles")(type "KiCad")(uri "/home/maxgenson/Documents/MMS Synth Project/ACG 101 (vcadsr-3310)/KiCad_Footprints/OS_Scribbles.pretty")(options "")(descr ""))
+  (lib (name "KOMA")(type "KiCad")(uri "/home/chrisi/KOMA Elektronik/Projekte/KiCad-Libraries/KOMA.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "KOMA")(type "Legacy")(uri "/home/chrisi/KOMA Elektronik/Projekte/KiCad-Libraries/chrisi.lib")(options "")(descr ""))
+)
